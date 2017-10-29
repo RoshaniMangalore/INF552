@@ -1,4 +1,3 @@
-#Authors: Kavya Sethuram,Rasika Guru,Roshani Mangalore
 import pandas as pd
 import random
 import numpy as np
